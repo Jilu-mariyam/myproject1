@@ -1,5 +1,9 @@
 # myproject1
 my project
-jilu
+
 ss
+<<<<<<< HEAD
 nice1
+=======
+fetch data
+>>>>>>> 740771f (Update README.md)
